@@ -1,0 +1,32 @@
+/* Estilos generales */
+body {
+    background-color: #f8d3e0; /* Color de fondo rosa pastel */
+    color: #333; /* Color de texto oscuro para contraste */
+    font-family: Arial, sans-serif; /* Fuente general */
+}
+
+/* Estilo del encabezado */
+header {
+    background-color: #ff6f91; /* Rosa pastel más oscuro para el encabezado */
+    padding: 1rem;
+}
+
+/* Estilo de los enlaces en el encabezado */
+header a {
+    color: white; /* Color de texto blanco para los enlaces */
+    margin: 0 1rem; /* Espaciado entre enlaces */
+    text-decoration: none; /* Sin subrayado */
+}
+
+/* Estilo del contenido principal */
+main {
+    padding: 2rem; /* Espaciado alrededor del contenido */
+}
+
+/* Estilo del pie de página */
+footer {
+    background-color: #ff6f91; /* Rosa pastel más oscuro para el pie de página */
+    color: white; /* Color de texto blanco */
+    text-align: center; /* Centrar el texto */
+    padding: 1rem; /* Espaciado alrededor del pie de página */
+}
